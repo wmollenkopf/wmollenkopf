@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @wmollenkopf
 
-I'm a Systems Administrator with over 7 years of experience managing VMware, Proxmox, OpenVMS, Oracle, Linux, and Azure environments.  I'm passionate about infrastructure reliability, cloud technologies, cost-efficient design, and continuous learning.
+I'm a Systems Administrator with over 7 years of experience managing VMware, Proxmox, OpenVMS, Oracle, and Linux.  I'm passionate about infrastructure reliability, cloud technologies, cost-efficient design, and continuous learning.
 
 ---
 
