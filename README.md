@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm @wmollenkopf
 
-I'm a Systems Administrator with over 7 years of experience managing VMware, Proxmox, OpenVMS, Oracle, Linux, and Azure environments.  
-I'm passionate about infrastructure reliability, cloud technologies, cost-efficient design, and continuous learning.
+I'm a Systems Administrator with over 7 years of experience managing VMware, Proxmox, OpenVMS, Oracle, Linux, and Azure environments.  I'm passionate about infrastructure reliability, cloud technologies, cost-efficient design, and continuous learning.
 
 ---
 
@@ -21,9 +20,6 @@ Current roadmap:
 - **AZ-305** — Designing Azure Infrastructure (cost-optimized architecture)  
 - **AZ-800** — Windows Server Hybrid Administration  
 - **Server+** — future goal  
-
----
-
 
 <!---
 wmollenkopf/wmollenkopf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
